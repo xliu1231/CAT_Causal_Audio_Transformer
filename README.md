@@ -1,2 +1,3 @@
 # CAT_Causal_Audio_Transformer
-The project repo for the paper CAT: Causal Audio Transformer for Audio Classification.
+
+The code and checkpoint models will be published in this repo. 
